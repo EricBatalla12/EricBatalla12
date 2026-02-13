@@ -1,4 +1,6 @@
-## Hi there 👋
+## Repositorio recién crado
+
+<br> Actaualmente aprendiendo github 🌱🌱🌱
 
 <!--
 **EricBatalla12/EricBatalla12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
